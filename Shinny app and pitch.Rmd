@@ -30,7 +30,7 @@ https://arindom-chakraborty.shinyapps.io/APPPPPP/?_ga=2.225274266.1208218720.159
 
 Click the link below for compiled project files on gitub repo.
 
-https://github.com/BenKarmay/Peer-graded-Assignment-Course-Project-Shiny-Application-and-Reproducible-Pitch
+https://github.com/Arindom-Chakraborty/Course-Project-Shiny-Application-and-Reproducible-Pitch
 
 ## Data Used
 The data used for this application is diamonds data set, which is part of ggplot2 package. Containing information about 53940 diamonds with 10 variables.
